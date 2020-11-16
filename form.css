@@ -1,0 +1,18 @@
+.content {
+    text-align: center;
+}
+
+form {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+form div input {
+    display: block;
+}
+form div{
+    margin-top: 10px;
+}
+
+.formulario{
+    padding-top: 10% !important;
+}

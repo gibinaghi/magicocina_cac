@@ -1,0 +1,20 @@
+.display-table {
+    padding-top: 10% !important;
+}
+
+h1 {
+    color: rgb(39, 155, 170); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin:auto;
+    border-radius: 10px;
+}
