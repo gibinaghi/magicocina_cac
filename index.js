@@ -41,7 +41,7 @@ var cad= `
                 <a class="social-button youtube" href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
                 <a class="social-button instagram" href="https://www.instagram.com/magicocina/?hl=es-la" target="_blank"><i class="fab fa-instagram"></i></a>                  
             </div>
-            <p class="copy">  © 2020, Todos los derechos reservados - | Magicocina |. </p>
+            <p class="copy">  © 2020, Todos los derechos reservados <br/> | Magicocina |. </p>
 `
 document.getElementById("footer").innerHTML=cad;
 

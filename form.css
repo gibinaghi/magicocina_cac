@@ -1,18 +1,31 @@
-.content {
-    text-align: center;
+.row {
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
 }
 
-form {
-    margin-left: 20px;
-    margin-top: 20px;
-}
 form div input {
     display: block;
 }
 form div{
-    margin-top: 10px;
+    margin-top: 5%;
 }
 
-.formulario{
-    padding-top: 10% !important;
+.container{
+    padding-top: 5% !important;
 }
+
+/*----- Responsive ----*/
+@media (max-width:480px){
+    .form {
+        padding-top: 25%;
+    }
+  }
+  @media only screen and (min-width:480px) and (max-width:1200px){
+    .form {
+        padding-top: 10%;
+    }
+  }
