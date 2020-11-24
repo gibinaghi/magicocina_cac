@@ -31,10 +31,16 @@ img {
     .display-table {
         padding-top: 25% !important;
     }
+    .title {
+        font-size: x-large;
+    }
   }
   @media only screen and (min-width:480px) and (max-width:760px){
     .display-table {
         padding-top: 15% !important;
+    }
+    .title {
+        font-size: x-large;
     }
   }
   @media only screen and (min-width:760px) and (max-width:1200px){
